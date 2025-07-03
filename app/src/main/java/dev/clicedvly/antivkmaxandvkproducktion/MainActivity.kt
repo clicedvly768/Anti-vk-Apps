@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val packageName = "com.vkontakte.android"
+        val packageName = "com.vkontakte.android, com.uma.musicvk, com.vk.clips, com.vk.tv, com.vk.vkvideo, com.vk.im, com.vk.admin, ru.oneme.app"
 
         uninstallAppWithRoot(packageName)
     }

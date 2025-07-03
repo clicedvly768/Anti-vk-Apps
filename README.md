@@ -2,4 +2,4 @@
 
 Make auto delete vk apps on you phone
 
-Delete Yandex apps and Vk apps: Funzy-meme{https://github.com/Pyak-team/Funzy-meme}
+Delete Yandex apps and Vk apps (Fork): [Funzy-meme](https://github.com/Pyak-team/Funzy-meme)

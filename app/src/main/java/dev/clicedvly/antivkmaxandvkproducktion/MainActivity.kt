@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val packageName = "com.vkontakte.android, com.uma.musicvk, com.vk.clips, com.vk.tv, com.vk.vkvideo, com.vk.im, com.vk.admin, ru.oneme.app"
+        val packageName = "com.vkontakte.android, com.uma.musicvk, com.vk.clips, com.vk.tv, com.vk.vkvideo, com.vk.im, com.vk.admin, ru.oneme.app, ru.vk.store, ru.vk.store.tv, com.vk.love, com.vk.mail, games.my.cloud, com.vk.calls, ru.ok.messages, ru.ok.android, com.allgoritm.youla, com.yandex.widget,ru.yandex.androidkeyboard , com.yandex.browser.lite, com.yandex.browser.tv, com.yandex.searchapp.beta, com.yandex.searchapp, ru.yandex.searchplugin, ru.yandex.searchplugin.beta, ru.yandex.disk, ru.yandex.translate, ru.yandex.music, ru.yandex.weatherplugin"
 
         uninstallAppWithRoot(packageName)
     }

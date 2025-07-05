@@ -1,7 +1,7 @@
 # First stage apps.
 
-Make auto delete vk apps on you phone
+### Auto-delete Yandex and VK apps on your device.
 
 Delete Yandex apps and Vk apps (Fork): [Funzy-meme](https://github.com/Pyak-team/Funzy-meme)
 
-##### Request API level 29 (Android 10)
+##### API level 29 required (Android 10)

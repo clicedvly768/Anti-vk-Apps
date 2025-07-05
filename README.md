@@ -1,6 +1,6 @@
 # First stage apps.
 
-### Auto-delete Yandex and VK apps on your device.
+### Auto-delete VK apps on your device.
 
 Delete Yandex apps and Vk apps (Fork): [Funzy-meme](https://github.com/Pyak-team/Funzy-meme)
 
